@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236336958358",
+    "project_id": "pbl-testing",
+    "storage_bucket": "pbl-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236336958358:android:45813a23c8d6fdeaecabb7",
+        "android_client_info": {
+          "package_name": "com.example.test_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKkuSwlJjEjeRyvHVtBje7OK-nrqLLHYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
